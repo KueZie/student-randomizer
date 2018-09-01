@@ -1,0 +1,34 @@
+html,
+body,
+.big-box,
+#preloader {
+  height: 100%;
+}
+
+#preloader {
+    overflow: hidden;
+}
+
+.move-down {
+    margin-top: 30px;
+}
+
+.divider-local {
+    background-color: red;
+}
+
+.slight-left {
+    margin-left: 20px !important;
+}
+
+.border-round {
+    border-radius: 2px;
+}
+
+.refresh-btn {
+    cursor: pointer;
+}
+
+.disc {
+    list-style-type: disc !important;
+}
